@@ -112,3 +112,15 @@
   background-color: #2b2b2b;
   color: antiquewhite;
 }
+.footer {
+  color: red;
+  background-color: black;
+  position: fixed;
+  bottom: 0;
+  margin-left: 5%;
+  margin-right: 5%;
+  z-index: 10;
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+}
